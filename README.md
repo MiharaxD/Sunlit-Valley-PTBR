@@ -18,5 +18,3 @@ Faça um backup da pasta do modpack antes de instalar, principalmente se você j
 ## Observação
 
 A tradução altera apenas arquivos de idioma e textos relacionados às quests.
-
-Nenhum mod, save ou configuração de gameplay é incluído.
