@@ -1,0 +1,17 @@
+{
+  "block.moreminecarts.chiseled_organic_glass": "Vidro de Estufa",
+  "block.moreminecarts.chiseled_organic_glass_pane": "Painel de Vidro de Estufa",
+  "block.moreminecarts.chunk_loader": "Carregador de Chunk Alimentado",
+  "item.moreminecarts.coupler": "Mola de Criatura",
+  "block.moreminecarts.glass_cactus": "Cacto vítreo",
+  "block.moreminecarts.lightspeed_powered_rail": "Trilho turbo",
+  "block.moreminecarts.lightspeed_rail": "Trilho de Velocidade da Luz",
+  "block.moreminecarts.maglev_powered_rail": "Trilho Maglev Elétrico",
+  "block.moreminecarts.maglev_projector_rail": "Trilho Holográfico Maglev",
+  "block.moreminecarts.maglev_rail": "Trilho Maglev",
+  "block.moreminecarts.projector_rail": "Trilho Holográfico",
+  "block.moreminecarts.wooden_cross_rail": "Cruzamento de Trilhos de Madeira",
+  "block.moreminecarts.wooden_projector_rail": "Trilho Holográfico de Madeira",
+  "block.moreminecarts.wooden_rail": "Trilho de Madeira",
+  "block.moreminecarts.wooden_rail_turn": "Curva de Trilho de Madeira"
+}

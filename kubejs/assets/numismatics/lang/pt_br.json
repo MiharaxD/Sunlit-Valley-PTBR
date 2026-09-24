@@ -1,0 +1,14 @@
+{
+  "item.numismatics.sprocket": "Moeda de Ferro",
+  "item.numismatics.spur": "Moeda de Cobre",
+  "item.numismatics.sun": "Moeda de Irídio",
+  "item.numismatics.cog": "Moeda de Latão",
+  "item.numismatics.crown": "Moeda de Ouro",
+  "item.numismatics.bevel": "Moeda de Zinco",
+  "item.numismatics.coin.tooltip.value": " ",
+  "item.numismatics.coin.tooltip.value.basic": " ",
+  "block.numismatics.bank_terminal": "Terminal Bancário",
+  "block.numismatics.blaze_banker": "Banqueiro Blaze",
+  "item.numismatics.orange_card": "Cartão Bancário Laranja",
+  "item.numismatics.white_card": "Cartão Bancário Branco"
+}

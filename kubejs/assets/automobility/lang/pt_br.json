@@ -1,0 +1,8 @@
+{
+  "block.automobility.auto_mechanic_table": "Mesa de Mecânica Automotiva",
+  "item.automobility.automobile": "Automóvel",
+  "entity.automobility.automobile": "Automóvel",
+  "block.automobility.automobile_assembler": "Montador de Automóveis",
+  "item.automobility.crowbar": "Pé de Cabra",
+  "prefab.automobility.wooden_motorcar": "Automóvel de Madeira"
+}

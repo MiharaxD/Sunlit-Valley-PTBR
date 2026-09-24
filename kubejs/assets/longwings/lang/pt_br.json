@@ -1,0 +1,22 @@
+{
+  "block.longwings.melon_butterfly_driplure": "Isca de Gotejamento de Borboleta de Melão",
+  "block.longwings.apple_butterfly_driplure": "Isca de Gotejamento de Borboleta de Maçã",
+  "block.longwings.berry_butterfly_driplure": "Isca de Gotejamento de Borboleta de Fruta",
+  "block.longwings.glass_jar": "Pote de Borboleta de Asas Longas",
+  "block.longwings.apple_butterfly_brew_block": "Bloco de bebida de maçã para borboletas",
+  "item.longwings.apple_butterfly_brew_bottle": "Garrafa de bebida de maçã para borboletas",
+  "block.longwings.berry_butterfly_brew_block": "Bloco de bebida de bagas para borboletas",
+  "item.longwings.berry_butterfly_brew_bottle": "Garrafa de bebida de bagas para borboletas",
+  "item.longwings.butterfly": "Borboleta",
+  "entity.longwings.butterfly": "Borboleta",
+  "block.longwings.butterfly_driplure": "Isca Gotejante para Borboletas",
+  "item.longwings.butterfly_handbook": "Manual de Borboletas & Mariposas",
+  "item.longwings.catching_net": "Rede de Captura",
+  "block.longwings.melon_butterfly_brew_block": "Bloco de bebida de melancia para borboletas",
+  "item.longwings.melon_butterfly_brew_bottle": "Garrafa de bebida de melancia para borboletas",
+  "item.longwings.moth": "Mariposa",
+  "entity.longwings.moth": "Mariposa",
+  "item.longwings.sugar_water_bowl": "Tigela de Água Açucarada",
+  "block.longwings.sugar_water_bowl": "Tigela de Água Açucarada",
+  "block.longwings.butterfly_feeder_bowl": "Alimentador de Borboletas"
+}

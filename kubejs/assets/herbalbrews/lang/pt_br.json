@@ -1,0 +1,16 @@
+{
+  "herbalbrews.advancement.find_tea_blossom.desc": "Encontre Flores de Chá como saque no mundo.",
+  "subtitles.herbalbrews.tea_kettle_boiling": "Chaleira de chá fervendo",
+  "item.herbalbrews.green_tea_leaf": "Folha de chá verde",
+  "block.herbalbrews.tea_kettle": "Chaleira",
+  "block.herbalbrews.black_tea_block": "Chá preto",
+  "block.herbalbrews.coffee_block": "Café",
+  "block.herbalbrews.coffee_plant": "Grãos de café",
+  "block.herbalbrews.green_tea_block": "Chá verde",
+  "block.herbalbrews.hibiscus_tea_block": "Chá de hibisco",
+  "block.herbalbrews.lavender_tea_block": "Chá de alecrim",
+  "block.herbalbrews.milk_coffee_block": "Café com leite",
+  "block.herbalbrews.oolong_tea_block": "Chá oolong",
+  "block.herbalbrews.rooibos_tea_block": "Chá de rooibos",
+  "block.herbalbrews.yerba_mate_tea_block": "Chá-mate"
+}
